@@ -1,19 +1,42 @@
 {
   "solution": [
-    "Limits and Collateral",
-    "Branch",
-    "Micro Services",
-    "Treasury",
-    "Investor Management"
+    { "value": "Solution 1" },
+    { "value": "Solution 2" },
+    { "value": "Solution 3" },
+    { "value": "Solution 4" },
+    { "value": "Solution 5" }
+  ],
+  "module": [
+    { "value": "Module 1" },
+    { "value": "Module 2" },
+    { "value": "Module 3" },
+    { "value": "Module 4" },
+    { "value": "Module 5" }
+  ],
+  "customer": [
+    { "value": "Customer 1" },
+    { "value": "Customer 2" },
+    { "value": "Customer 3" },
+    { "value": "Customer 4" },
+    { "value": "Customer 5" }
+  ],
+  "region": [
+    { "value": "Region 1" },
+    { "value": "Region 2" },
+    { "value": "Region 3" },
+    { "value": "Region 4" },
+    { "value": "Region 5" }
+  ],
+  "country": [
+    { "value": "Country 1" },
+    { "value": "Country 2" },
+    { "value": "Country 3" },
+    { "value": "Country 4" },
+    { "value": "Country 5" }
+  ],
+  "cr_type": [
+    { "value": "CR Type 1" },
+    { "value": "CR Type 2" },
+    { "value": "CR Type 3" }
   ]
 }
-
-
-
-
-
-
-
-
-
-
