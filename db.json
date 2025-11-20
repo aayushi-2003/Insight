@@ -5,5 +5,48 @@
     "Micro Services",
     "Treasury",
     "Investor Management"
+  ],
+  "module": [
+    "FC Common CORE",
+    "FC Origination",
+    "FC Safe Deposit Box",
+    "Oracle Banking Trade Finance",
+    "FC Electronic Messaging Service"
+  ],
+  "customer": [
+    "Sathapana Bank PLC",
+    "Barclays",
+    "CITI BANK",
+    "DBS Singapore",
+    "Weatherbys Bank Limited"
+  ],
+  "region": [
+    "ALL",
+    "AMERICAS",
+    "JPAC",
+    "EUROPE",
+    "MEA"
+  ],
+  "country": [
+    "Belarus",
+    "Cuba",
+    "Kyrgyzstan",
+    "Uzbekistan",
+    "Brunei Darussalam"
+  ],
+  "cr_type": [
+    "Functional",
+    "Integration",
+    "Reports"
   ]
 }
+
+
+
+
+
+
+
+
+
+
