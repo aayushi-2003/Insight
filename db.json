@@ -33,10 +33,5 @@
     { "value": "Country 3" },
     { "value": "Country 4" },
     { "value": "Country 5" }
-  ],
-  "cr_type": [
-    { "value": "CR Type 1" },
-    { "value": "CR Type 2" },
-    { "value": "CR Type 3" }
   ]
 }
