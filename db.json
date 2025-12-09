@@ -14,18 +14,18 @@
     "Module 5"
   ],
   "customer": [
-        {
-            "return": "Code 1",
-            "display": "Customer 1"
-        },
-        {
-            "return": "Code 2",
-            "display": "Customer 2"
-        },
-        {
-            "return": "Code 3",
-            "display": "Customer 3"
-        }
+    {
+      "code": "Code 1",
+      "name": "Customer 1"
+    },
+    {
+      "code": "Code 2",
+      "name": "Customer 2"
+    },
+    {
+      "code": "Code 3",
+      "name": "Customer 3"
+    }
   ],
   "region": [
     "Region 1",
