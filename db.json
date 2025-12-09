@@ -17,7 +17,7 @@
     { "return": "Code 1", "display": "Customer 1" },
     { "return": "Code 2", "display": "Customer 2" },
     { "return": "Code 3", "display": "Customer 3" }
-]
+],
   "region": [
     "Region 1",
     "Region 2",
