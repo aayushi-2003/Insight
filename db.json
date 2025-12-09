@@ -15,16 +15,16 @@
   ],
   "customer": [
         {
-            "code": "Code 1",
-            "name": "Customer 1"
+            "r": "Code 1",
+            "label": "Customer 1"
         },
         {
-            "code": "Code 2",
-            "name": "Customer 2"
+            "r": "Code 2",
+            "label": "Customer 2"
         },
         {
-            "code": "Code 3",
-            "name": "Customer 3"
+            "r": "Code 3",
+            "label": "Customer 3"
         }
   ],
   "region": [
