@@ -13,20 +13,11 @@
     "Module 4",
     "Module 5"
   ],
-  "customer": [
-        {
-            "r": "Code 1",
-            "label": "Customer 1"
-        },
-        {
-            "r": "Code 2",
-            "label": "Customer 2"
-        },
-        {
-            "r": "Code 3",
-            "label": "Customer 3"
-        }
-  ],
+"customer": [
+    { "return": "Code 1", "display": "Customer 1" },
+    { "return": "Code 2", "display": "Customer 2" },
+    { "return": "Code 3", "display": "Customer 3" }
+]
   "region": [
     "Region 1",
     "Region 2",
