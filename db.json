@@ -14,9 +14,9 @@
     "Module 5"
   ],
   "customer": [
-    { "code": "Code 1", "name": "Customer 1" },
-    { "code": "Code 2", "name": "Customer 2" },
-    { "code": "Code 3", "name": "Customer 3" }
+    { "CODE": "Code 1", "NAME": "Customer 1" },
+    { "CODE": "Code 2", "NAME": "Customer 2" },
+    { "CODE": "Code 3", "NAME": "Customer 3" }
   ],
   "region": [
     "Region 1",
